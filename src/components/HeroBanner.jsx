@@ -16,7 +16,7 @@ const HeroBanner = () => {
   }
 
   return (
-    <div className="relative h-screen flex items-center justify-center overflow-hidden">
+    <div className="relative min-h-screen h-auto xl:h-screen flex items-center justify-center overflow-hidden pt-24 md:pt-0">
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-to-r from-netflix-black via-netflix-gray-700/20 to-transparent"></div>
       
@@ -106,7 +106,7 @@ const HeroBanner = () => {
             {/* Placeholder for hero image/video */}
             <div className="aspect-square max-w-md mx-auto bg-gradient-to-br from-netflix-red/20 to-blue-500/20 rounded-2xl backdrop-blur-sm border border-white/10 flex items-center justify-center">
             <img 
-      src="/netflix_me.png" 
+      src="https://portfolioflix.s3.us-east-2.amazonaws.com/netflix_me.png" 
       alt="Your Photo" 
       className="w-full h-full object-cover rounded-2xl" 
     />
