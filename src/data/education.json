@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Master's in Computer Science",
+    "detailTitle": "Master of Science in Computer Science",
+    "title": "Master's in Computer Science",
+    "subtitle": "Distributed Systems, Neural Networks, Advanced Algorithms",
+    "institution": "University of Massachusetts, Amherst",
+    "period": "Sept 2024 - Apr 2026",
+    "location": "Amherst, MA",
+    "description": "Currently pursuing Master's degree in Computer Science with specialized focus on distributed systems, neural networks, and software engineering. Engaged in advanced coursework and research projects in cutting-edge technologies.",
+    "achievements": [
+      "Studying advanced distributed systems architecture and implementation",
+      "Conducting research in neural networks and deep learning applications",
+      "Building enterprise-level software engineering solutions",
+      "Active participant in academic research and development projects"
+    ],
+    "coursework": [
+      "Distributed Systems",
+      "Neural Networks", 
+      "Advanced Algorithms",
+      "Software Engineering",
+      "Machine Learning",
+      "Computer Networks",
+      "Database Systems"
+    ],
+    "thumbnail": "/assets/education/umass.png"
+  },
+  {
+    "id": 2,
+    "cardTitle": "Bachelor's in Electrical Engineering",
+    "detailTitle": "Bachelor of Technology in Electrical Engineering",
+    "title": "Bachelor's in Electrical Engineering",
+    "subtitle": "ML, Data Analysis, Probability & Random Processes",
+    "institution": "Indian Institute of Technology Bombay",
+    "period": "Jul 2016 - Jun 2021",
+    "location": "Bombay, MH, India",
+    "description": "Completed prestigious dual degree program in Electrical Engineering from IIT Bombay with All India Rank 563. Specialized in machine learning, data analysis, and probability theory with strong foundation in engineering fundamentals.",
+    "achievements": [
+      "Achieved All India Rank 563 in JEE Advanced",
+      "Graduated from prestigious IIT Bombay with dual degree",
+      "Strong academic performance in ML and data analysis",
+      "Completed comprehensive coursework in probability and random processes"
+    ],
+    "coursework": [
+      "Machine Learning",
+      "Data Analysis & Interpretation", 
+      "Probability & Random Processes",
+      "Signal Processing",
+      "Control Systems",
+      "Electronics & Communication",
+      "Mathematics and Statistics"
+    ],
+    "thumbnail": "/assets/education/iitb.png"
+  }
+]

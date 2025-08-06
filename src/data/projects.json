@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Job Analyser",
+    "detailTitle": "Job Analyser - AI-Powered Career Analysis Tool",
+    "title": "Job Analyser",
+    "description": "Intelligent job description analysis tool that uses natural language processing to extract key requirements, skills, and qualifications. Helps job seekers better understand what employers are looking for and match their profiles accordingly.",
+    "longDescription": "A comprehensive job analysis platform that leverages advanced NLP techniques to parse and analyze job descriptions from various sources. The application extracts meaningful insights about skill requirements, experience levels, salary ranges, and company culture indicators. Features include skill gap analysis, personalized recommendations, and learning path suggestions to help job seekers improve their profiles and increase their chances of landing their dream job.",
+    "techStack": [
+      "Python",
+      "JavaScript",
+      "React",
+      "FastAPI",
+      "Natural Language Processing",
+      "Machine Learning",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "achievements": [
+      "Built advanced NLP pipeline for job description analysis",
+      "Implemented skill extraction and matching algorithms",
+      "Created personalized recommendation system",
+      "Developed comprehensive web interface for job seekers"
+    ],
+    "github": "https://github.com/Mustafa-Ali-iitb/job-analyser",
+    "demo": "https://job-analyser.vercel.app",
+    "thumbnail": "/assets/projects/job_analyser.png",
+    "period": "Summer 2025"
+  },
+  {
+    "id": 2,
+    "cardTitle": "Smart Minutes",
+    "detailTitle": "Smart Minutes - AI-Powered Meeting Assistant",
+    "title": "Smart Minutes",
+    "description": "Developed a full-stack meeting assistant application with Google Calendar and Firebase Auth integration, featuring live transcription and AI-powered summarization capabilities.",
+    "longDescription": "A comprehensive smart meeting assistant that revolutionizes how users manage and interact with their meetings. The application integrates seamlessly with Google Calendar and uses advanced AI technologies for real-time transcription and intelligent summarization. Built with modern web technologies and deployed for scalable performance.",
+    "techStack": [
+      "Python",
+      "JavaScript",
+      "React",
+      "FastAPI",
+      "OpenAI",
+      "WebRTC",
+      "Google Calendar API",
+      "Firebase Auth"
+    ],
+    "achievements": [
+      "Implemented live transcription using WebRTC and OpenAI Whisper",
+      "Built real-time transcript search and summarization using GPT-3.5",
+      "Integrated Google Calendar and Firebase Authentication",
+      "Processed 30-second audio chunks for optimal performance"
+    ],
+    "github": "https://github.com/Mustafa-Ali-iitb/meetsage",
+    "demo": "https://meetsage-demo.vercel.app",
+    "thumbnail": "/assets/projects/smart_minutes.png",
+    "period": "Summer 2025"
+  },
+  {
+    "id": 3,
+    "cardTitle": "TradeNet",
+    "detailTitle": "TradeNet – Distributed Stock Trading Engine",
+    "title": "TradeNet – Distributed Stock Trading Engine",
+    "description": "Designed a multithreaded stock trading platform using RPC to handle concurrent client-server operations with advanced caching, replication, and fault tolerance mechanisms.",
+    "longDescription": "A high-performance distributed stock trading engine built to handle real-time trading operations at scale. The system implements advanced distributed systems concepts including caching, replication, and fault tolerance to ensure reliability and performance. Deployed on AWS with containerization for maximum scalability.",
+    "techStack": [
+      "Python",
+      "AWS",
+      "Docker",
+      "K3s",
+      "RPC",
+      "Kubernetes",
+      "Distributed Systems",
+      "Microservices"
+    ],
+    "achievements": [
+      "Boosted performance by 30% through optimized caching strategies",
+      "Reduced latency by 40% with efficient RPC implementation",
+      "Achieved 99.9% uptime with fault-tolerant architecture",
+      "Deployed scalable distributed setup on AWS with Docker and K3s"
+    ],
+    "github": "https://github.com/Mustafa-Ali-iitb/tradenet",
+    "thumbnail": "/assets/projects/trade_net.png",
+    "period": "Spring 2025"
+  },
+  {
+    "id": 4,
+    "cardTitle": "Travel Planner",
+    "detailTitle": "Travel Planner - Full-Stack Trip Planning Application",
+    "title": "Travel Planner",
+    "description": "Created a responsive React frontend with comprehensive trip planning features, backed by robust Spring Boot APIs integrated with MongoDB for secure data handling and storage.",
+    "longDescription": "A full-stack travel planning application that simplifies the process of organizing trips. The application features a modern, responsive React frontend with over 10 user-friendly features, complemented by a robust Spring Boot backend with secure API endpoints and efficient MongoDB data management.",
+    "techStack": [
+      "Java",
+      "JavaScript",
+      "React",
+      "Spring Boot",
+      "MongoDB",
+      "REST APIs",
+      "CSS3",
+      "HTML5"
+    ],
+    "achievements": [
+      "Built responsive React frontend with 10+ planning features",
+      "Designed 12+ Spring Boot APIs with MongoDB integration",
+      "Implemented secure data handling and storage mechanisms",
+      "Enhanced user experience for comprehensive trip planning"
+    ],
+    "github": "https://github.com/vanshika5605/travel-planner",
+    "demo": "https://travel-planner-demo.vercel.app",
+    "thumbnail": "/assets/projects/travel_planner.png",
+    "period": "Fall 2024"
+  },
+  {
+    "id": 5,
+    "cardTitle": "UMate",
+    "detailTitle": "UMate - Smart Roommate Finder Platform",
+    "title": "UMate - Roommate Finder",
+    "description": "Engineered a React + Flask web application with comprehensive APIs for onboarding, authentication, and profile matching, featuring advanced MongoDB data modeling and AWS S3 integration.",
+    "longDescription": "A sophisticated roommate matching platform designed specifically for university students. The application uses intelligent algorithms to match compatible roommates based on lifestyle preferences, study habits, and personal traits. Features comprehensive user onboarding, secure authentication, and cloud-based image storage.",
+    "techStack": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Flask",
+      "MongoDB",
+      "AWS S3",
+      "Machine Learning",
+      "Authentication"
+    ],
+    "achievements": [
+      "Built React + Flask web app with 10+ comprehensive APIs",
+      "Modeled MongoDB with nested schemas and optimized indexed fields",
+      "Integrated AWS S3 for secure and scalable image storage",
+      "Implemented advanced profile matching algorithms"
+    ],
+    "github": "https://github.com/fabihafatima/UMateFinder",
+    "demo": "https://umate-finder.vercel.app",
+    "thumbnail": "/assets/projects/umate.png",
+    "period": "Fall 2024"
+  }
+]

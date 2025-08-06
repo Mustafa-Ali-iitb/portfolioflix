@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Software Developer",
+    "detailTitle": "Founding Engineer - Atica Global",
+    "title": "Founding Engineer & Senior Software Developer",
+    "company": "ATICA GLOBAL",
+    "role": "Founding Engineer & Senior Software Developer",
+    "period": "Mar 2021 - Aug 2024",
+    "duration": "3.5 years",
+    "location": "India",
+    "description": "Led backend development and DevOps for a growing startup, building scalable systems from the ground up. Responsible for architecting microservices, implementing automation workflows, and mentoring engineering teams.",
+    "achievements": [
+      "Developed 100+ RESTful APIs using Java Spring Boot in microservices architecture",
+      "Built comprehensive SQL and NoSQL data access layers with JPA/Hibernate and MongoRepository",
+      "Automated 200+ n8n workflows, enabling 3x faster business operation execution",
+      "Engineered AWS Lambda + S3 pipeline generating 50+ contract PDFs daily",
+      "Migrated 90+ MongoDB collections to PostgreSQL for advanced analytics",
+      "Reduced application downtime by 40% through Prometheus and Grafana monitoring",
+      "Mentored a team of 6 engineers, fostering skill development and knowledge sharing"
+    ],
+    "techStack": [
+      "Java",
+      "Spring Boot",
+      "JavaScript", 
+      "n8n",
+      "AWS Lambda",
+      "AWS S3",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Jenkins",
+      "Prometheus",
+      "Grafana"
+    ],
+    "thumbnail": "/assets/experience/atica.png"
+  },
+  {
+    "id": 2,
+    "cardTitle": "Summer Associate",
+    "detailTitle": "Business Advisory - Ernst & Young",
+    "title": "Summer Associate, Business Advisory",
+    "company": "Ernst & Young",
+    "role": "Summer Associate, Business Advisory",
+    "period": "Jun 2019 - Jul 2019",
+    "duration": "2 months",
+    "location": "Gurgaon, India",
+    "description": "Analyzed National ID system for Rwanda government and Social Protection for Cambodia government.",
+    "achievements": [
+      "Formulated 31-parameter based rating model to analyze National Identification system as part of RFP response (Rwanda NID Project)",
+      "Identified shortcomings against global best practices under Inclusion, Design, and Governance verticals (Rwanda NID Project)",
+      "Recommended improvement in ID framework; Proposal accepted by Rwanda; Execution commenced in 2020 (Rwanda NID Project)",
+      "Analyzed 5 payment processes for Cash Incentive program; prepared questionnaire & interviewed stakeholders (Cambodia Project)",
+      "Recommended strategies for end-to-end integration of social program with centralized service delivery platform (Cambodia Project)"
+    ],
+    "techStack": [],
+    "thumbnail": "/assets/experience/ey.png"
+  },
+  {
+    "id": 3,
+    "cardTitle": "Operations Analyst",
+    "detailTitle": "Logistics Team - Edgistify",
+    "title": "Operations Analyst, Logistics Team",
+    "company": "Edgistify – Optisupply Chain Solutions",
+    "role": "Operations Analyst, Logistics Team",
+    "period": "May 2018 - Jun 2018",
+    "duration": "2 months",
+    "location": "Mumbai, India",
+    "description": "Devised an end-to-end solution to deploy hydra crane PAN India for Reliance; Received Letter of Recommendation.",
+    "achievements": [
+      "Negotiated with 35+ vendors to provide logistic service at 150+ locations in India for project worth INR 120M (Strategic Cost Reduction)",
+      "Reduced operations cost by 20% through targeted outreach of 3PL Vendors and streamlining the process flow (Strategic Cost Reduction)",
+      "Analyzed strategies to integrate blockchain with supply chain, resulting in increased transparency in operations (Strategic Cost Reduction)"
+    ],
+    "techStack": [],
+    "thumbnail": "/assets/experience/edgistify.png"
+  }
+]

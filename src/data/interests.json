@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Backend Development",
+    "detailTitle": "Backend Development & Microservices Architecture",
+    "title": "Backend Development & Microservices",
+    "description": "Passionate about building scalable enterprise-level systems using Java Spring Boot, with expertise in designing RESTful APIs, microservices architecture, and secure data handling for high-performance applications.",
+    "achievements": [
+      "Developed 100+ RESTful APIs using Java Spring Boot",
+      "Built comprehensive microservices architecture for enterprise applications",
+      "Expertise in JPA/Hibernate and MongoRepository with Spring Data",
+      "Strong focus on scalability and performance optimization"
+    ],
+    "techStack": [
+      "Java",
+      "Spring Boot", 
+      "Microservices",
+      "REST APIs",
+      "JPA/Hibernate",
+      "Spring Data",
+      "SQL",
+      "NoSQL"
+    ],
+    "thumbnail": "/assets/interests/backend-dev.jpg"
+  },
+  {
+    "id": 2,
+    "cardTitle": "Distributed Systems",
+    "detailTitle": "Distributed Systems & High Performance Computing",
+    "title": "Distributed Systems & High Performance Computing",
+    "description": "Focused on building distributed systems that can handle concurrent operations, implement fault tolerance, and achieve high performance through advanced caching and replication strategies.",
+    "achievements": [
+      "Built multithreaded stock trading platform with RPC architecture",
+      "Implemented caching and replication for 30% performance boost",
+      "Achieved 99.9% uptime with fault-tolerant distributed systems",
+      "Specialized in concurrent client-server operations"
+    ],
+    "techStack": [
+      "Python",
+      "RPC",
+      "Distributed Systems",
+      "Caching",
+      "Replication",
+      "Fault Tolerance",
+      "K3s",
+      "Microservices"
+    ],
+    "thumbnail": "/assets/interests/distributed-systems.jpg"
+  },
+  {
+    "id": 3,
+    "cardTitle": "Cloud & DevOps",
+    "detailTitle": "Cloud Infrastructure & DevOps",
+    "title": "Cloud Infrastructure & DevOps",
+    "description": "Experienced in architecting cloud solutions and implementing DevOps practices, including AWS services, containerization, CI/CD pipelines, and monitoring systems for enterprise-scale applications.",
+    "achievements": [
+      "Architected CI/CD pipelines using Jenkins for automated deployment",
+      "Implemented AWS Lambda + S3 solutions for automated document processing", 
+      "Self-hosted containerized applications using Docker & Docker Compose",
+      "Built comprehensive monitoring using Prometheus and Grafana dashboards"
+    ],
+    "techStack": [
+      "AWS Lambda",
+      "AWS S3",
+      "AWS EC2",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Prometheus",
+      "Grafana",
+      "CI/CD"
+    ],
+    "thumbnail": "/assets/interests/devops.jpg"
+  },
+  {
+    "id": 4,
+    "cardTitle": "Artificial Intelligence",
+    "detailTitle": "AI: NLP, RAG, Multimodal, Deep Learning, and More",
+    "title": "Artificial Intelligence",
+    "description": "Exploring the latest advancements in AI, including Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Multimodal AI, Deep Learning, CNNs, and Large Language Models. Passionate about building intelligent systems that leverage state-of-the-art AI for real-world applications.",
+    "achievements": [
+      "Developed NLP pipelines for text classification and sentiment analysis",
+      "Built RAG-based systems for knowledge retrieval and question answering",
+      "Experimented with multimodal models combining text, image, and audio",
+      "Implemented deep learning models using CNNs for image recognition",
+      "Worked with LLMs and prompt engineering for generative AI tasks"
+    ],
+    "techStack": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Transformers",
+      "OpenAI API",
+      "LangChain",
+      "HuggingFace",
+      "CNNs",
+      "LLMs"
+    ],
+    "thumbnail": "/assets/interests/ai-ml.jpg"
+  },
+  {
+    "id": 5,
+    "cardTitle": "Machine Learning",
+    "detailTitle": "Conventional Machine Learning & Data Science",
+    "title": "Machine Learning",
+    "description": "Experienced in applying conventional machine learning algorithms for classification, regression, clustering, and data analysis. Skilled in feature engineering, model evaluation, and deploying ML models for business insights.",
+    "achievements": [
+      "Implemented ML models for predictive analytics and forecasting",
+      "Worked with scikit-learn for classification and regression tasks",
+      "Applied clustering and dimensionality reduction techniques",
+      "Built end-to-end ML pipelines for data-driven solutions"
+    ],
+    "techStack": [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "XGBoost",
+      "LightGBM",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "thumbnail": "/assets/interests/ml.jpg"
+  },
+  {
+    "id": 6,
+    "cardTitle": "Database Engineering",
+    "detailTitle": "Database Management & Data Engineering",
+    "title": "Database Management & Data Engineering",
+    "description": "Experienced in both SQL and NoSQL database technologies, with expertise in data migration, ETL pipeline development, and optimizing database performance for large-scale applications.",
+    "achievements": [
+      "Successfully migrated 90+ MongoDB collections to PostgreSQL",
+      "Built optimized ETL pipelines for advanced analytics",
+      "Experience with nested schemas and indexed field optimization",
+      "Expertise in both relational and document-based databases"
+    ],
+    "techStack": [
+      "PostgreSQL",
+      "MongoDB",
+      "ETL Pipelines",
+      "Data Modeling",
+      "Database Migration",
+      "SQL",
+      "NoSQL"
+    ],
+    "thumbnail": "/assets/interests/database.jpg"
+  },
+  {
+    "id": 7,
+    "cardTitle": "Leadership & Mentoring",
+    "detailTitle": "Leadership & Team Mentoring",
+    "title": "Leadership & Team Mentoring",
+    "description": "Passionate about fostering team growth and knowledge sharing, with experience mentoring engineering teams, conducting peer programming sessions, and driving technical excellence.",
+    "achievements": [
+      "Mentored a team of 6 engineers at Atica Global",
+      "Fostered skill development and peer programming practices",
+      "Led knowledge sharing sessions and technical discussions",
+      "Contributed to team building and collaborative development culture"
+    ],
+    "techStack": [
+      "Mentoring",
+      "Team Building",
+      "Peer Programming",
+      "Technical Leadership"
+    ],
+    "thumbnail": "/assets/interests/leadership.jpg"
+  },
+  {
+    "id": 8,
+    "cardTitle": "Filmmaking & Creativity",
+    "detailTitle": "Filmmaking & Creative Technology",
+    "title": "Filmmaking & Creative Technology",
+    "description": "Creative passion for visual storytelling and video production, combining technical skills with artistic vision. Active content creator exploring the intersection of technology and creativity.",
+    "achievements": [
+      "Active content creator on Instagram @vfxmedekhlenge",
+      "Combines technical programming skills with creative video production",
+      "Explores innovative applications of technology in creative fields",
+      "Documents travel and technical experiences through visual media"
+    ],
+    "techStack": [
+      "Video Production",
+      "Storytelling",
+      "Content Creation",
+      "Editing"
+    ],
+    "thumbnail": "/assets/interests/filmmaking.jpg"
+  },
+  {
+    "id": 9,
+    "cardTitle": "Travelling",
+    "detailTitle": "Exploring New Places & Cultures",
+    "title": "Travelling",
+    "description": "Avid traveler with a passion for exploring new places, cultures, and cuisines. Enjoys documenting journeys through photography and storytelling, and believes travel broadens perspective and inspires creativity.",
+    "achievements": [
+      "Traveled to 10+ countries across 3 continents",
+      "Documented travel experiences through blogs and vlogs",
+      "Explored diverse cultures and local traditions",
+      "Captured scenic landscapes and cityscapes in photographs"
+    ],
+    "techStack": [
+      "Travel Planning",
+      "Photography",
+      "Storytelling",
+      "Cultural Exploration"
+    ],
+    "thumbnail": "/assets/interests/travelling.jpg"
+  },
+  {
+    "id": 10,
+    "cardTitle": "Cricket",
+    "detailTitle": "Cricket Enthusiast & Team Player",
+    "title": "Cricket",
+    "description": "Cricket enthusiast with a deep love for the sport, both as a player and a fan. Enjoys playing competitive matches, following international tournaments, and analyzing game strategies.",
+    "achievements": [
+      "Played for college and local cricket teams",
+      "Organized and led cricket tournaments",
+      "Regularly follows international and domestic cricket leagues",
+      "Analyzes match strategies and player performances"
+    ],
+    "techStack": [
+      "Batting",
+      "Bowling",
+      "Teamwork",
+      "Strategy Analysis"
+    ],
+    "thumbnail": "/assets/interests/cricket.jpg"
+  }
+]
