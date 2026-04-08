@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import { publicAssetUrl } from '../utils/publicAssetUrl'
 
 const ModalPreview = ({ item, onClose }) => {
   // Close modal on escape key
@@ -56,7 +57,7 @@ const ModalPreview = ({ item, onClose }) => {
           <div className="relative h-64 md:h-80 bg-gradient-to-br from-netflix-red/20 to-blue-500/20 overflow-hidden rounded-t-lg">
             {item.thumbnail ? (
               <img
-                src={item.thumbnail}
+                src={publicAssetUrl(item.thumbnail)}
                 alt={item.title}
                 className="w-full h-full object-cover"
                 onError={(e) => {

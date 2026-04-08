@@ -24,7 +24,7 @@
     ],
     "github": "https://github.com/Mustafa-Ali-iitb/job-analyser",
     "demo": "https://job-analyser.vercel.app",
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/projects/job_analyser.png",
+    "thumbnail": "assets/projects/job_analyser.png",
     "period": "Summer 2025"
   },
   {
@@ -52,7 +52,7 @@
     ],
     "github": "https://github.com/Mustafa-Ali-iitb/meetsage",
     "demo": "https://meetsage-demo.vercel.app",
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/projects/smart_minutes.png",
+    "thumbnail": "assets/projects/smart_minutes.png",
     "period": "Summer 2025"
   },
   {
@@ -79,7 +79,7 @@
       "Deployed scalable distributed setup on AWS with Docker and K3s"
     ],
     "github": "https://github.com/Mustafa-Ali-iitb/tradenet",
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/projects/trade_net.png",
+    "thumbnail": "assets/projects/trade_net.png",
     "period": "Spring 2025"
   },
   {
@@ -107,7 +107,7 @@
     ],
     "github": "https://github.com/vanshika5605/travel-planner",
     "demo": "https://travel-planner-demo.vercel.app",
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/projects/travel_planner.png",
+    "thumbnail": "assets/projects/travel_planner.png",
     "period": "Fall 2024"
   },
   {
@@ -135,7 +135,7 @@
     ],
     "github": "https://github.com/fabihafatima/UMateFinder",
     "demo": "https://umate-finder.vercel.app",
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/projects/umate.png",
+    "thumbnail": "assets/projects/umate.png",
     "period": "Fall 2024"
   }
 ]

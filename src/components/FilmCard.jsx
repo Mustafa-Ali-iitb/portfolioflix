@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
+import { publicAssetUrl } from '../utils/publicAssetUrl'
 
 const FilmCard = ({ item, onClick }) => {
   const [isHovered, setIsHovered] = useState(false)
@@ -28,7 +29,7 @@ const FilmCard = ({ item, onClick }) => {
           alt={item.title}
           className="w-full h-full object-cover"
           onError={(e) => {
-            e.target.src = '/assets/films/placeholder.jpg'
+            e.target.src = publicAssetUrl('assets/films/placeholder.jpg')
           }}
         />
 

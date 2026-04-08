@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import { publicAssetUrl } from '../utils/publicAssetUrl'
 
 const HeroBanner = () => {
   const scrollToProjects = () => {
@@ -105,11 +106,11 @@ const HeroBanner = () => {
           <div className="relative">
             {/* Placeholder for hero image/video */}
             <div className="aspect-square max-w-md mx-auto bg-gradient-to-br from-netflix-red/20 to-blue-500/20 rounded-2xl backdrop-blur-sm border border-white/10 flex items-center justify-center">
-            <img 
-      src="https://portfolioflix.s3.us-east-2.amazonaws.com/netflix_me.png" 
-      alt="Your Photo" 
-      className="w-full h-full object-cover rounded-2xl" 
-    />
+            <img
+              src={publicAssetUrl('netflix_me.png')}
+              alt="Your Photo"
+              className="w-full h-full object-cover rounded-2xl"
+            />
               {/* <div className="text-center space-y-4">
                 <div className="w-32 h-32 mx-auto bg-gradient-to-r from-netflix-red to-red-600 rounded-full flex items-center justify-center">
                   <span className="text-4xl font-bold">MA</span>

@@ -33,7 +33,7 @@
       "Prometheus",
       "Grafana"
     ],
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/experience/atica.png"
+    "thumbnail": "assets/experience/atica.png"
   },
   {
     "id": 2,
@@ -54,7 +54,7 @@
       "Recommended strategies for end-to-end integration of social program with centralized service delivery platform (Cambodia Project)"
     ],
     "techStack": [],
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/experience/ey.png"
+    "thumbnail": "assets/experience/ey.png"
   },
   {
     "id": 3,
@@ -73,6 +73,6 @@
       "Analyzed strategies to integrate blockchain with supply chain, resulting in increased transparency in operations (Strategic Cost Reduction)"
     ],
     "techStack": [],
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/experience/edgistify.png"
+    "thumbnail": "assets/experience/edgistify.png"
   }
 ]

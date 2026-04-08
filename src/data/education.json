@@ -24,7 +24,7 @@
       "Computer Networks",
       "Database Systems"
     ],
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/education/umass.png"
+    "thumbnail": "assets/education/umass.png"
   },
   {
     "id": 2,
@@ -51,6 +51,6 @@
       "Electronics & Communication",
       "Mathematics and Statistics"
     ],
-    "thumbnail": "https://portfolioflix.s3.us-east-2.amazonaws.com/assets/education/iitb.png"
+    "thumbnail": "assets/education/iitb.png"
   }
 ]

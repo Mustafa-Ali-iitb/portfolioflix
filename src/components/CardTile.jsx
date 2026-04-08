@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
+import { publicAssetUrl } from '../utils/publicAssetUrl'
 
 const CardTile = ({ item, onClick, category }) => {
   const [isHovered, setIsHovered] = useState(false)
@@ -57,7 +58,7 @@ const CardTile = ({ item, onClick, category }) => {
         {/* Thumbnail or Icon */}
         {item.thumbnail ? (
           <img
-            src={item.thumbnail}
+            src={publicAssetUrl(item.thumbnail)}
             alt={item.title}
             className="w-full h-full object-cover"
             onError={(e) => {
