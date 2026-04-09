@@ -1,5 +1,33 @@
 [
   {
+    "id": 4,
+    "cardTitle": "Research Extern",
+    "detailTitle": "Honda Research Institute USA - Code Intelligence",
+    "title": "Research Extern, Code Intelligence",
+    "company": "Honda Research Institute USA",
+    "role": "Research Extern",
+    "period": "Feb 2026 - Present",
+    "duration": "Feb 2026 - Present",
+    "location": "USA",
+    "description": "Building repository-scale code question answering systems using hybrid retrieval and graph-augmented reasoning, with large-scale benchmarking on HPC.",
+    "achievements": [
+      "Built a Git Intelligence Layer for repository Q&A by representing codebases as heterogeneous knowledge graphs (files/classes/functions) with structural edges (contains/imports/invokes/inherits) to enable multi-hop, cross-file reasoning",
+      "Designed a hybrid retrieval stack combining BM25, dense retrieval, and intent-aware graph traversal; evaluated on DeepCodeBench repository Q&A (1,144 Q&A instances) and reported gains over lexical-only and context-only baselines",
+      "Ran large-scale benchmarking on HPC (SLURM), comparing GPT/Qwen/Llama families using an LLM-as-judge pipeline for fact-level scoring; analyzed retrieval design trade-offs and judge-model sensitivity"
+    ],
+    "techStack": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "Knowledge Graphs",
+      "BM25",
+      "Dense Retrieval",
+      "SLURM",
+      "HPC"
+    ],
+    "thumbnail": "assets/experience/honda_research.png"
+  },
+  {
     "id": 1,
     "cardTitle": "Software Developer",
     "detailTitle": "Founding Engineer - Atica Global",
@@ -37,23 +65,26 @@
   },
   {
     "id": 2,
-    "cardTitle": "Summer Associate",
-    "detailTitle": "Business Advisory - Ernst & Young",
-    "title": "Summer Associate, Business Advisory",
+    "cardTitle": "Software Intern",
+    "detailTitle": "Software Intern - Ernst & Young",
+    "title": "Software Intern",
     "company": "Ernst & Young",
-    "role": "Summer Associate, Business Advisory",
-    "period": "Jun 2019 - Jul 2019",
-    "duration": "2 months",
-    "location": "Gurgaon, India",
-    "description": "Analyzed National ID system for Rwanda government and Social Protection for Cambodia government.",
+    "role": "Software Intern",
+    "period": "May 2019 - Jul 2019",
+    "duration": "3 months",
+    "location": "Delhi, India",
+    "description": "Worked on data engineering and software quality improvements, improving reliability and reducing manual reporting effort for finance workflows.",
     "achievements": [
-      "Formulated 31-parameter based rating model to analyze National Identification system as part of RFP response (Rwanda NID Project)",
-      "Identified shortcomings against global best practices under Inclusion, Design, and Governance verticals (Rwanda NID Project)",
-      "Recommended improvement in ID framework; Proposal accepted by Rwanda; Execution commenced in 2020 (Rwanda NID Project)",
-      "Analyzed 5 payment processes for Cash Incentive program; prepared questionnaire & interviewed stakeholders (Cambodia Project)",
-      "Recommended strategies for end-to-end integration of social program with centralized service delivery platform (Cambodia Project)"
+      "Implemented ETL scripts to ingest and cleanse finance logs from Azure Blob Storage into PostgreSQL, cutting report preparation time by 35%",
+      "Refactored a legacy module into modular components, increasing unit test coverage from 38% to 82% and simplifying onboarding for new developers"
     ],
-    "techStack": [],
+    "techStack": [
+      "Python",
+      "ETL",
+      "Azure Blob Storage",
+      "PostgreSQL",
+      "Unit Testing"
+    ],
     "thumbnail": "assets/experience/ey.png"
   },
   {
@@ -75,4 +106,5 @@
     "techStack": [],
     "thumbnail": "assets/experience/edgistify.png"
   }
+  
 ]

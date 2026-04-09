@@ -75,28 +75,70 @@
   {
     "id": 4,
     "cardTitle": "Artificial Intelligence",
-    "detailTitle": "AI: NLP, RAG, Multimodal, Deep Learning, and More",
+    "detailTitle": "AI: RAG, LLMs, Graph Reasoning, and Evaluation",
     "title": "Artificial Intelligence",
-    "description": "Exploring the latest advancements in AI, including Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Multimodal AI, Deep Learning, CNNs, and Large Language Models. Passionate about building intelligent systems that leverage state-of-the-art AI for real-world applications.",
+    "description": "Exploring modern AI systems with a focus on Retrieval-Augmented Generation (RAG), LLM evaluation, and graph-based reasoning for complex multi-hop tasks like repository-scale code question answering.",
     "achievements": [
-      "Developed NLP pipelines for text classification and sentiment analysis",
       "Built RAG-based systems for knowledge retrieval and question answering",
-      "Experimented with multimodal models combining text, image, and audio",
-      "Implemented deep learning models using CNNs for image recognition",
-      "Worked with LLMs and prompt engineering for generative AI tasks"
+      "Developed graph-augmented retrieval for multi-hop, cross-document reasoning",
+      "Benchmarked multiple LLM families with LLM-as-judge pipelines for fact-level scoring",
+      "Worked with prompt engineering and evaluation design for reliable comparisons"
     ],
     "techStack": [
       "Python",
-      "PyTorch",
-      "TensorFlow",
       "Transformers",
-      "OpenAI API",
-      "LangChain",
+      "RAG",
+      "Knowledge Graphs",
+      "BM25",
+      "Dense Retrieval",
+      "LLM-as-Judge",
       "HuggingFace",
-      "CNNs",
       "LLMs"
     ],
     "thumbnail": "/assets/interests/ai-ml.jpg"
+  },
+  {
+    "id": 11,
+    "cardTitle": "Code Intelligence",
+    "detailTitle": "Repository-Scale QA & Graph-Augmented RAG",
+    "title": "Code Intelligence & Graph-RAG",
+    "description": "Interested in building developer-facing AI systems that understand entire codebases by combining retrieval, program structure, and scalable evaluation.",
+    "achievements": [
+      "Represented repositories as heterogeneous knowledge graphs for cross-file reasoning",
+      "Designed hybrid retrieval stacks (BM25 + dense + graph traversal) for repository Q&A",
+      "Built repeatable benchmarking workflows and analyzed ablations across retrieval strategies"
+    ],
+    "techStack": [
+      "RAG",
+      "Knowledge Graphs",
+      "Static Analysis",
+      "Information Retrieval",
+      "BM25",
+      "Embeddings",
+      "Evaluation"
+    ],
+    "thumbnail": "/assets/interests/backend-dev.jpg"
+  },
+  {
+    "id": 12,
+    "cardTitle": "HPC & Experimentation",
+    "detailTitle": "SLURM, Large-Scale Runs, and Reproducible Benchmarks",
+    "title": "HPC & Experimentation",
+    "description": "Enjoy running large-scale experiments reliably—building automation to compare models and retrieval pipelines across datasets, compute, and evaluation settings.",
+    "achievements": [
+      "Ran large-scale experiment suites on HPC using SLURM job scheduling",
+      "Automated A/B experiments for fair comparisons across indexing and retrieval variants",
+      "Tracked evaluation sensitivity across model and judge configurations"
+    ],
+    "techStack": [
+      "SLURM",
+      "HPC",
+      "Python",
+      "Automation",
+      "Experiment Tracking",
+      "Benchmarking"
+    ],
+    "thumbnail": "/assets/interests/devops.jpg"
   },
   {
     "id": 5,
